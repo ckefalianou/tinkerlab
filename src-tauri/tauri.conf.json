@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "tinkerlab",
+  "productName": "TinkerLab",
   "version": "0.1.0",
   "identifier": "com.tinkerlab.app",
   "build": {
@@ -12,9 +12,9 @@
   "app": {
     "windows": [
       {
-        "title": "tinkerlab",
-        "width": 800,
-        "height": 600
+        "title": "TinkerLab",
+        "width": 1200,
+        "height": 800
       }
     ],
     "security": {
